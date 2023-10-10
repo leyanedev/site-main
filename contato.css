@@ -1,0 +1,47 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+    } 
+    
+    ul {
+            list-style-type: none;
+            text-align: center;
+            padding: 16px;
+    }
+    
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border: 5px solid plum;
+    
+    }
+    
+    
+    footer {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    footer a {
+        margin: 30px;
+
+    }
+    
+    .container {
+        padding: 0px 50px;
+    }
+    
+    nav a:hover {
+        color: plum
+    }  
+
+
+

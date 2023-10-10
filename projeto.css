@@ -1,0 +1,36 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.8;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 16px;
+    line-height: 1.5;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid plum;
+
+}
+
+.center{
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    padding: 1px 50px;
+}
